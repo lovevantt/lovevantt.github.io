@@ -69,7 +69,7 @@
 
 ### 开源贡献
 - [`编程学习笔记`](https://github.com/lovevantt/CodeNotes) 记录自己研究生期间的学习内容
-- [`建议评卷软件`](https://github.com/lovevantt/Miss-Dang-s-excel) 帮女朋友在excel里使用VBA编写的选择题阅卷软件，可以输入答案串，在题目数量、班级人数、题目分数方面都具有柔性化。
+- [`简易评卷软件`](https://github.com/lovevantt/Miss-Dang-s-excel) 帮女朋友在excel里使用VBA编写的选择题阅卷软件，可以输入答案串，在题目数量、班级人数、题目分数方面都具有柔性化。
 - [`点云格式转换于显示`](https://github.com/lovevantt/off_to_stl) 将off格式的点云文件转化为stl格式并显示。
 
 ### 技能清单
