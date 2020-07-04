@@ -13,8 +13,8 @@
  - 性别：男
  - 籍贯：山西 · 忻州
  - 毕业地：江苏 · 南京
- - 技术博客：https://www.cnblogs.com/lovevan/
- - Github：http://github.com/lovevantt
+ - 技术博客：[https://www.cnblogs.com/lovevan/](https://www.cnblogs.com/lovevan/)
+ - Github：[http://github.com/lovevantt](http://github.com/lovevantt)
 
 ### 教育背景
 
