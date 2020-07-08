@@ -5,7 +5,7 @@
 </div>
 
 ## 联系方式
-- 手机：182-6262-0469
+- 手机：182-6262-0769
 - Email：[fanjt@nuaa.edu.cn](mailto://fanjt@nuaa.edu.cn)
 
 ### 个人信息
