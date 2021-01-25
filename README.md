@@ -1,5 +1,3 @@
 ## Welcome to My GitHub Homepages
 
-You can use the [editor on GitHub](https://github.com/lovevantt/lovevantt.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Homepage](https://lovevantt.github.io/)

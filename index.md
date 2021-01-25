@@ -5,14 +5,14 @@
 </div>
 
 ## 联系方式
-- 手机：182-6262-0769
-- Email：[fanjt@nuaa.edu.cn](mailto://fanjt@nuaa.edu.cn)
+- 手机：无
+- Email：[fanjt.nuaa@qq.com](mailto://fanjt.nuaa@qq.com)
 
 ### 个人信息
  - 出生年月：1995.06
  - 性别：男
- - 籍贯：山西 · 忻州
- - 毕业地：江苏 · 南京
+ - 籍贯：山西
+ - 毕业地：江苏
  - 技术博客：[https://www.cnblogs.com/lovevan/](https://www.cnblogs.com/lovevan/)
  - Github：[http://github.com/lovevantt](http://github.com/lovevantt)
 
