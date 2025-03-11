@@ -1,9 +1,5 @@
 <h1>范景韬</h1>
 
-<div style="float:right">
-    <img src="http://5b0988e595225.cdn.sohucs.com/images/20190329/1ee603ce961d4fd6a9f990772c6e587b.jpeg" >
-</div>
-
 ## 联系方式
 - 手机：无
 - Email：[fanjt.nuaa@qq.com](mailto://fanjt.nuaa@qq.com)
