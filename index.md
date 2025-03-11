@@ -2,7 +2,7 @@
 
 ## 联系方式
 - 手机：无
-- Email：[fanjt.nuaa@qq.com](mailto://fanjt.nuaa@qq.com)
+- Email：[fanjt.work@qq.com](mailto://fanjt.work@qq.com)
 
 ### 个人信息
  - 出生年月：1995.06
